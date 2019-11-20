@@ -1,5 +1,5 @@
 ---
-title: "Flutter 시작하기 (on ubuntu)"
+title: "Flutter 시작하기 (on ubuntu) - 1"
 date: 2019-11-20T04:25:00+09:00
 showDate: true
 draft: false

@@ -26,23 +26,23 @@ pygmentsCodefences       = true
 
 [[params.mainMenu]]
     link = "/posts"
-    text = "posts"
+    text = "Posts"
 
 [[params.mainMenu]]
     link = "/photos/mylife"
-    text = "my life"
+    text = "My life"
 
 [[params.mainMenu]]
     link = "/photos/banya"
-    text = "banya's life"
+    text = "Banya's life"
 
 [[params.mainMenu]]
     link = "/portfolio"
-    text = "portfolio"
+    text = "Portfolio"
 
 [[params.mainMenu]]
     link = "/about"
-    text = "who is sam?"
+    text = "Who is kurochi?"
 
 [imaging]
     quality = 75
