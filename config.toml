@@ -28,14 +28,6 @@ pygmentsCodefences       = true
     link = "/posts"
     text = "Posts"
 
-# [[params.mainMenu]]
-    # link = "/gallery/life"
-    # text = "gallery - My life"
-
-# [[params.mainMenu]]
-    # link = "/gallery/banya"
-    # text = "gallery - banya"
-
 [[params.mainMenu]]
     link = "/photos/mylife"
     text = "My life"

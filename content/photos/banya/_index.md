@@ -1,7 +1,7 @@
 ---
-title: "It's my life"
+title: "Banya's privacy"
 type: "photos"
-url: "/photos/mylife"
+url: "/photos/banya"
 showDate: true
 draft: false
 ---
