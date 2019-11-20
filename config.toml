@@ -26,15 +26,15 @@ pygmentsCodefences       = true
 
 [[params.mainMenu]]
     link = "/posts"
-    text = "Posts"
+    text = "posts"
 
 [[params.mainMenu]]
     link = "/photos/mylife"
-    text = "My life"
+    text = "my life"
 
 [[params.mainMenu]]
     link = "/photos/banya"
-    text = "Banya's life"
+    text = "banya's life"
 
 [[params.mainMenu]]
     link = "/portfolio"
