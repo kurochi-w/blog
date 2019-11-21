@@ -1,7 +1,3 @@
-# baseURL = "http://example.org/"
-# languageCode = "en-us"
-# title = "My New Hugo Site"
-
 baseurl                  = "https://kurochi-w.github.io/"           # Your domain name. Must end with "/"
 languageCode             = "en-us"
 defaultContentLanguage   = "en"
@@ -16,13 +12,13 @@ pygmentsCodefences       = true
     dateform             = "Mon Jan 02, 2006"
     dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
     favicon              = "sam.ico"
-    homepage             = "main"                           # What to call the home page link
-    footerText           = "Call me Sam, a theme for Hugo."
+    homepage             = "home"                           # What to call the home page link
+    footerText           = "Powered by Hugo. Copyright (c) 2019, [kurochi dev blog](/)"
 
 # Metadata for Open Graph and Twitter
-    description          = "A new Hugo site."               # Max 160 characters show in search results
+    description          = "kurochi dev blog"               # Max 160 characters show in search results
     images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
-    title                = "Call me Sam"
+    title                = "kurochi's blog"
 
 [[params.mainMenu]]
     link = "/posts"
