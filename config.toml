@@ -25,11 +25,11 @@ pygmentsCodefences       = true
     text = "Posts"
 
 [[params.mainMenu]]
-    link = "/life/my"
+    link = "/mylife"
     text = "My life"
 
 [[params.mainMenu]]
-    link = "/life/banya"
+    link = "/banyalife"
     text = "Banya's life"
 
 #[[params.mainMenu]]
